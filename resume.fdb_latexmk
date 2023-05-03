@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1683079003 "c:/Users/Kevin/Desktop/resume/resume.tex" "resume.pdf" "resume" 1683079003
+["pdflatex"] 1683079350 "c:/Users/Kevin/Desktop/resume/resume.tex" "resume.pdf" "resume" 1683079350
   "C:/Users/Kevin/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1570893861 4245169 95a9bbb943dc7176d57f2094155e718e ""
   "C:/Users/Kevin/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/Kevin/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -34,9 +34,9 @@
   "C:/Users/Kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/Kevin/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xifthen/xifthen.sty" 1448278036 5689 1bfa68243e89a54479e7d0580773c57e ""
   "awesome-cv.cls" 1683077217 27300 a78e2dab5fa4b19ebfd3a273f0a266e6 ""
-  "c:/Users/Kevin/Desktop/resume/resume.tex" 1683079000 3341 20f9144f1ad24ef973b5e9f20eb7a0c0 ""
-  "resume.aux" 1683079003 34 3985256e7290058c681f74d7a3565a19 ""
-  "resume.tex" 1683079000 3341 20f9144f1ad24ef973b5e9f20eb7a0c0 ""
+  "c:/Users/Kevin/Desktop/resume/resume.tex" 1683079345 3307 7b50a230cc41d8e6df50e76970569989 ""
+  "resume.aux" 1683079350 34 3985256e7290058c681f74d7a3565a19 ""
+  "resume.tex" 1683079345 3307 7b50a230cc41d8e6df50e76970569989 ""
   (generated)
-  "resume.pdf"
   "resume.log"
+  "resume.pdf"
